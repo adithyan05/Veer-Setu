@@ -1,45 +1,70 @@
-# 🇮🇳 Veer Setu
+# Getting Started with Create React App
 
-Veer Setu is a full-stack web platform designed to bridge the gap between civilians and defense support systems by enabling structured communication, assistance requests, and efficient data management.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 🚀 Overview
+## Available Scripts
 
-The platform allows users to report issues, request support, and manage information in a secure and organized manner. It focuses on improving accessibility, coordination, and response efficiency in non-critical scenarios through a centralized digital system.
+In the project directory, you can run:
 
-## ✨ Features
+### `npm start`
 
-- User registration and authentication  
-- Raise and track requests/issues  
-- Structured database management  
-- Secure handling of user data  
-- Scalable architecture (Web → Mobile ready)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## 🛠️ Tech Stack
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- Frontend: HTML, CSS, JavaScript  
-- Backend: Node.js / Express  
-- Database: PostgreSQL (Supabase)  
-- Version Control: Git & GitHub  
+### `npm test`
 
-## 🧠 Problem
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-There is a lack of a unified platform for civilians to communicate and coordinate with defense-related support systems efficiently in non-emergency situations.
+### `npm run build`
 
-## 💡 Solution
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Veer Setu provides a centralized and scalable platform that simplifies request handling, improves data organization, and enables future integration with advanced technologies like AI and mobile applications.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## 🔐 Future Scope
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- Role-based access (Admin/Authorities)  
-- AI-based request prioritization  
-- Mobile application development  
-- Enhanced security and encryption  
+### `npm run eject`
 
-## ⚠️ Disclaimer
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-This project is developed for educational purposes only and does not connect to any real government or defense systems.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## 👨‍💻 Author
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-- Your Name
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
